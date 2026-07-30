@@ -7,4 +7,4 @@
 | Nwabueze, Victor Chinecherem | [victornwabueze21-cmd](https://github.com/victornwabueze21-cmd) | 22/EG/ME/1730 |
 |Inyang Akanimo Aniedi | [inyangakanimo79-commits](https://github.com/inyangakanimo79-commits) | 22/EG/ME/1760 |
 |Sunday, Jonathan Atta | [JAStrades](https://github.com/JAStrades) | 22/EG/ME/1750 |
-
+|Sampson, Emmanuel Usen | [sampsonemmanuel-jpg](https://github.com/sampsonemmanuel-jpg) | 22/EG/ME/1790 |
