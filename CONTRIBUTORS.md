@@ -9,4 +9,4 @@
 |Sunday, Jonathan Atta | [JAStrades](https://github.com/JAStrades) | 22/EG/ME/1750 |
 |Sampson, Emmanuel Usen | [sampsonemmanuel-jpg](https://github.com/sampsonemmanuel-jpg) | 22/EG/ME/1790 |
 |chiefe,francis otitochukwu | [francisotitochukwu-hub](https://github.com/francisotitochukwu-hub) | 22/EG/ME/1810 |
-
+|Archibong, Emediong Sunday | [emediongarchibong100-cell](https://github.com/emediongarchibong100-cell) | 22/EG/ME/1700 |
